@@ -1,0 +1,14 @@
+C:\Users\Usuario\CalculadoraDeAnagramas\bin\Debug\net9.0\CalculadoraDeAnagramas.exe
+C:\Users\Usuario\CalculadoraDeAnagramas\bin\Debug\net9.0\CalculadoraDeAnagramas.deps.json
+C:\Users\Usuario\CalculadoraDeAnagramas\bin\Debug\net9.0\CalculadoraDeAnagramas.runtimeconfig.json
+C:\Users\Usuario\CalculadoraDeAnagramas\bin\Debug\net9.0\CalculadoraDeAnagramas.dll
+C:\Users\Usuario\CalculadoraDeAnagramas\bin\Debug\net9.0\CalculadoraDeAnagramas.pdb
+C:\Users\Usuario\CalculadoraDeAnagramas\obj\Debug\net9.0\CalculadoraDeAnagramas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\CalculadoraDeAnagramas\obj\Debug\net9.0\CalculadoraDeAnagramas.AssemblyInfoInputs.cache
+C:\Users\Usuario\CalculadoraDeAnagramas\obj\Debug\net9.0\CalculadoraDeAnagramas.AssemblyInfo.cs
+C:\Users\Usuario\CalculadoraDeAnagramas\obj\Debug\net9.0\CalculadoraDeAnagramas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\CalculadoraDeAnagramas\obj\Debug\net9.0\CalculadoraDeAnagramas.dll
+C:\Users\Usuario\CalculadoraDeAnagramas\obj\Debug\net9.0\refint\CalculadoraDeAnagramas.dll
+C:\Users\Usuario\CalculadoraDeAnagramas\obj\Debug\net9.0\CalculadoraDeAnagramas.pdb
+C:\Users\Usuario\CalculadoraDeAnagramas\obj\Debug\net9.0\CalculadoraDeAnagramas.genruntimeconfig.cache
+C:\Users\Usuario\CalculadoraDeAnagramas\obj\Debug\net9.0\ref\CalculadoraDeAnagramas.dll
