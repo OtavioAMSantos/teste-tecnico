@@ -1,0 +1,14 @@
+C:\Users\Usuario\CorridaDeVeiculos\bin\Debug\net9.0\CorridaDeVeiculos.exe
+C:\Users\Usuario\CorridaDeVeiculos\bin\Debug\net9.0\CorridaDeVeiculos.deps.json
+C:\Users\Usuario\CorridaDeVeiculos\bin\Debug\net9.0\CorridaDeVeiculos.runtimeconfig.json
+C:\Users\Usuario\CorridaDeVeiculos\bin\Debug\net9.0\CorridaDeVeiculos.dll
+C:\Users\Usuario\CorridaDeVeiculos\bin\Debug\net9.0\CorridaDeVeiculos.pdb
+C:\Users\Usuario\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.AssemblyInfoInputs.cache
+C:\Users\Usuario\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.AssemblyInfo.cs
+C:\Users\Usuario\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.dll
+C:\Users\Usuario\CorridaDeVeiculos\obj\Debug\net9.0\refint\CorridaDeVeiculos.dll
+C:\Users\Usuario\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.pdb
+C:\Users\Usuario\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.genruntimeconfig.cache
+C:\Users\Usuario\CorridaDeVeiculos\obj\Debug\net9.0\ref\CorridaDeVeiculos.dll
