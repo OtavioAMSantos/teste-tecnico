@@ -1,0 +1,20 @@
+Prompt para o ChatGPT:
+
+Gostaria que você desenvolvesse um sistema simples em Java (ou C#) para gerenciar as notas de alunos. 
+O sistema deve atender aos seguintes requisitos:
+
+Criar uma classe Aluno, que tenha as propriedades:
+- Nome (string)
+- Lista de Notas
+
+Criar uma classe Boletim, que seja responsável por calcular a média das notas dos alunos. 
+- A classe deve ter um método para calcular a média com base nas notas armazenadas na classe Aluno.
+
+O sistema deve permitir:
+-Adicionar notas a um aluno.
+-Exibir a média das notas do aluno.
+
+Também deve exibir se o aluno está "Aprovado" ou "Reprovado".
+Considerando que a média precisa ser maior ou igual a 7 para aprovação.
+
+Utilize princípios de programação orientada a objetos (POO).
